@@ -1,0 +1,101 @@
+#: locale=pt
+
+## Action
+
+### URL
+LinkBehaviour_291252B9_3C32_CC11_41C1_FAE08484C877.source = https://api.whatsapp.com/send?phone=5548996336614
+LinkBehaviour_2553C8D2_3C32_DC13_4182_7ED86C562DDE.source = https://api.whatsapp.com/send?phone=5548996336614
+LinkBehaviour_255C38D0_3C32_DC6F_41BC_2E3F1CFC6A63.source = https://g.page/r/CY12G85AoqnfEBM/review
+LinkBehaviour_2AF0D0C7_3C3E_4C71_41AF_9759FEEB4B36.source = https://g.page/r/CY12G85AoqnfEBM/review
+LinkBehaviour_432DFE7B_4C02_92DD_41D4_5C5BAB1AD98A.source = https://imobiliariaantoniocarlos.com.br
+LinkBehaviour_2A6B0CF9_3C32_D411_41B2_AD72E66D0E55.source = https://imobiliariaantoniocarlos.com.br/
+LinkBehaviour_425D3B72_4C02_B2EC_41D4_B70C46350C68.source = https://imobiliariaantoniocarlos.com.br/
+LinkBehaviour_255068D4_3C32_DC17_41C6_BFFA34B5AC91.source = https://imobiliariaantoniocarlos.com.br/
+LinkBehaviour_0EC8CA5C_1EBD_F1A2_41B0_717140FE12E8.source = https://imobiliariaantoniocarlos.com.br/
+LinkBehaviour_106F98E3_1E9C_1266_41B5_1E696ED9292C.source = https://www.escritolandia.com.br/
+LinkBehaviour_255C78D2_3C32_DC13_41C1_3028AA8CF2ED.source = https://www.facebook.com/antoniocarlosimobiliaria
+LinkBehaviour_2BF5EEDE_3C32_5413_419B_040C0E04AD8C.source = https://www.facebook.com/antoniocarlosimobiliaria
+LinkBehaviour_2A8D2610_3C32_57EE_41CC_A30765AF4E3C.source = https://www.google.com/maps/place/Imobili%C3%A1ria+Ant%C3%B4nio+Carlos+-+Compra+e+Venda+de+Im%C3%B3veis,+Ch%C3%A1caras,+S%C3%ADtios,+Fazendas,+Im%C3%B3veis+na+Praia,+Aluguel+de+Im%C3%B3veis/@-27.5083737,-48.7405592,15z/data=!4m2!3m1!1s0x0:0xdfa9a240ce1b768d?sa=X&ved=2ahUKEwjL5Jqt5p-AAxVrrpUCHV-KA34Q_BJ6BAhLEAA&hl=pt-BR&ved=2ahUKEwjL5Jqt5p-AAxVrrpUCHV-KA34Q_BJ6BAhaEAg
+LinkBehaviour_255CB8D0_3C32_DC6F_4198_EBAA79F46769.source = https://www.google.com/maps/place/Imobili%C3%A1ria+Ant%C3%B4nio+Carlos+-+Compra+e+Venda+de+Im%C3%B3veis,+Ch%C3%A1caras,+S%C3%ADtios,+Fazendas,+Im%C3%B3veis+na+Praia,+Aluguel+de+Im%C3%B3veis/@-27.5083737,-48.7405592,15z/data=!4m2!3m1!1s0x0:0xdfa9a240ce1b768d?sa=X&ved=2ahUKEwjL5Jqt5p-AAxVrrpUCHV-KA34Q_BJ6BAhLEAA&hl=pt-BR&ved=2ahUKEwjL5Jqt5p-AAxVrrpUCHV-KA34Q_BJ6BAhaEAg
+LinkBehaviour_2AE878FC_3C32_DC16_416B_C2352776B18E.source = https://www.instagram.com/imobiliariaantoniocarlos/
+LinkBehaviour_255C48D1_3C32_DC11_41BC_71F37BDBD593.source = https://www.instagram.com/imobiliariaantoniocarlos/
+
+## Media
+
+### Audio
+audio_C92CED2A_DBA5_7AB2_41E3_957F5BD1FE80.path = null
+audio_C8143092_DBE4_EB92_41E3_BC3FAD61BF5B.path = null
+audiores_CF7ABA65_DBA4_FEB6_41E3_D59B57F5BBE7.mp3Url = media/audio_C8143092_DBE4_EB92_41E3_BC3FAD61BF5B_pt.mp3
+audiores_CF7ABA65_DBA4_FEB6_41E3_D59B57F5BBE7.oggUrl = media/audio_C8143092_DBE4_EB92_41E3_BC3FAD61BF5B_pt.ogg
+audiores_C8DDBCE0_DBBF_DBAE_41E2_C3F8DCDCEEA9.mp3Url = media/audio_C92CED2A_DBA5_7AB2_41E3_957F5BD1FE80_pt.mp3
+audiores_C8DDBCE0_DBBF_DBAE_41E2_C3F8DCDCEEA9.oggUrl = media/audio_C92CED2A_DBA5_7AB2_41E3_957F5BD1FE80_pt.ogg
+
+### Title
+panorama_CA758558_DCA5_6A9E_41E5_92A373B6466E.label = 0 area pronta sem noise-DeNoiseAI-clear
+panorama_CAAF7BC1_DCA5_7DEE_41C2_2AB25C7093A1.label = 1 aerea sem marcacao-DeNoiseAI-clear
+panorama_D0D7BF9F_DB5D_3592_41E9_B0A32C7A4492.label = 1-DeNoiseAI-clear
+panorama_D12D3FC2_DB5F_55F2_41D5_27F8FA6357F5.label = 10-DeNoiseAI-clear
+panorama_D12DA8F2_DB5F_7B93_41D7_7215A907D471.label = 11-DeNoiseAI-clear
+panorama_D12D1281_DB5F_6E71_41E8_69D20C723FCD.label = 12-DeNoiseAI-clear
+panorama_D12D6B25_DB5F_5EB1_41D6_58860E00F058.label = 13-DeNoiseAI-clear
+panorama_D12D6446_DB5F_2AF2_41BA_5431C215B51F.label = 14-DeNoiseAI-clear
+panorama_D12D3D38_DB5F_3A9E_41E6_7CA2E123C053.label = 15-DeNoiseAI-clear
+panorama_CA643585_DCAC_EA76_41EB_20155F8CFAC9.label = 2 aerea sem marcacao-DeNoiseAI-clear
+panorama_D12BF94D_DB5C_DAF1_41E7_90179CC1D924.label = 2-DeNoiseAI-clear
+panorama_C90BE805_DCA3_3A76_41CB_D9A5BDCDF687.label = 3 aerea sem marcacao-DeNoiseAI-clear
+panorama_D12F026E_DB5C_EEB3_419E_F6AE400D8159.label = 3-DeNoiseAI-clear
+panorama_C96ACA4C_DCA5_3EF7_41C9_D49C649CAF71.label = 4 aerea sem marcacao-DeNoiseAI-clear
+panorama_D12F5B22_DB5C_FEB2_41C0_894755F1AB67.label = 4-DeNoiseAI-clear
+panorama_C92B9469_DCBD_2ABE_41D0_1303141DB43C.label = 5 aerea sem marcacao-DeNoiseAI-clear
+panorama_D12F03A7_DB5C_EDB2_41D5_688C5D978353.label = 5-DeNoiseAI-clear
+panorama_D12E3CB8_DB5C_DB9E_41E7_2F85BA79C691.label = 6-DeNoiseAI-clear
+panorama_D12CF54B_DB5F_2AF2_41D6_9F2B5A5665EA.label = 7-DeNoiseAI-clear
+panorama_D12CEDCF_DB5F_35F1_41D0_45FBFA8F7ABD.label = 8-DeNoiseAI-clear
+panorama_D12D36B1_DB5F_57AE_41E1_ACF2E195C697.label = 9-DeNoiseAI-clear
+
+## Skin
+
+### Button
+Button_28E7887E_3CD2_DC12_41CC_136E13FACD28.label = BUSCAR
+Button_28E7887E_3CD2_DC12_41CC_136E13FACD28_mobile.label = BUSCAR
+
+### Image
+Image_2E93EAA6_3C57_DC32_41CB_3D0DA0D8B4CC.path = null
+Image_2ECF5EBF_3C35_D411_41C1_21A1BA9F05FC_mobile.path = null
+Image_2ECF5EBF_3C35_D411_41C1_21A1BA9F05FC.path = null
+Image_2ED1FC1E_3C33_D412_41A3_EE25C2C5EA0B_mobile.path = null
+Image_2ED1FC1E_3C33_D412_41A3_EE25C2C5EA0B.path = null
+Image_2ED69C5C_3C3E_D416_41C1_23B8A08B52AA_mobile.path = null
+Image_2ED69C5C_3C3E_D416_41C1_23B8A08B52AA.path = null
+Image_2F466471_3C4E_F411_41CB_1E701FB4DB68_mobile.path = null
+Image_2F466471_3C4E_F411_41CB_1E701FB4DB68.path = null
+Image_2FDDAFF7_3C32_D412_41B8_B6AF737F6555_mobile.path = null
+Image_2FDDAFF7_3C32_D412_41B8_B6AF737F6555.path = null
+Image_427F1976_4C02_BED4_41B4_7D00FAFB9512.path = null
+Image_429C7430_4C03_766B_41A2_3F34D997C386.path = null
+Image_431B85D3_4C07_762D_41D5_D99ABD1F917C.path = null
+Image_2E93EAA6_3C57_DC32_41CB_3D0DA0D8B4CC.url = skin/Image_2E93EAA6_3C57_DC32_41CB_3D0DA0D8B4CC_pt.png
+Image_2ECF5EBF_3C35_D411_41C1_21A1BA9F05FC_mobile.url = skin/Image_2ECF5EBF_3C35_D411_41C1_21A1BA9F05FC_mobile_pt.png
+Image_2ECF5EBF_3C35_D411_41C1_21A1BA9F05FC.url = skin/Image_2ECF5EBF_3C35_D411_41C1_21A1BA9F05FC_pt.png
+Image_2ED1FC1E_3C33_D412_41A3_EE25C2C5EA0B_mobile.url = skin/Image_2ED1FC1E_3C33_D412_41A3_EE25C2C5EA0B_mobile_pt.png
+Image_2ED1FC1E_3C33_D412_41A3_EE25C2C5EA0B.url = skin/Image_2ED1FC1E_3C33_D412_41A3_EE25C2C5EA0B_pt.png
+Image_2ED69C5C_3C3E_D416_41C1_23B8A08B52AA_mobile.url = skin/Image_2ED69C5C_3C3E_D416_41C1_23B8A08B52AA_mobile_pt.png
+Image_2ED69C5C_3C3E_D416_41C1_23B8A08B52AA.url = skin/Image_2ED69C5C_3C3E_D416_41C1_23B8A08B52AA_pt.png
+Image_2F466471_3C4E_F411_41CB_1E701FB4DB68_mobile.url = skin/Image_2F466471_3C4E_F411_41CB_1E701FB4DB68_mobile_pt.png
+Image_2F466471_3C4E_F411_41CB_1E701FB4DB68.url = skin/Image_2F466471_3C4E_F411_41CB_1E701FB4DB68_pt.png
+Image_2FDDAFF7_3C32_D412_41B8_B6AF737F6555_mobile.url = skin/Image_2FDDAFF7_3C32_D412_41B8_B6AF737F6555_mobile_pt.png
+Image_2FDDAFF7_3C32_D412_41B8_B6AF737F6555.url = skin/Image_2FDDAFF7_3C32_D412_41B8_B6AF737F6555_pt.png
+Image_427F1976_4C02_BED4_41B4_7D00FAFB9512.url = skin/Image_427F1976_4C02_BED4_41B4_7D00FAFB9512_pt.png
+Image_429C7430_4C03_766B_41A2_3F34D997C386.url = skin/Image_429C7430_4C03_766B_41A2_3F34D997C386_pt.png
+Image_431B85D3_4C07_762D_41D5_D99ABD1F917C.url = skin/Image_431B85D3_4C07_762D_41D5_D99ABD1F917C_pt.png
+
+### Tooltip
+IconButton_22A550C6_3CD2_4C73_419F_8C9E05943413.toolTip = Fullscreen
+
+## Tour
+
+### Description
+tour.description = Faça um Tour Virtual e Conheça o Terreno
+
+### Title
+tour.name = Terreno Contorno Viário
