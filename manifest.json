@@ -39,7 +39,7 @@
  "name": "Terreno Contorno Viário",
  "description": "Faça um Tour Virtual e Conheça o Terreno",
  "display": "fullscreen",
- "theme_color": "#FFFFFF",
  "background_color": "#FFFFFF",
+ "theme_color": "#FFFFFF",
  "start_url": "index.htm"
 }
